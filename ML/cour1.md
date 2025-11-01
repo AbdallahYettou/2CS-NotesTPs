@@ -3,7 +3,6 @@
 # 🧠 Data, Information, Knowledge, and Data Mining Overview
 
 ## **1. Data vs Information vs Knowledge**
-
 | Concept         | Definition                                           | Example in ML                                          |
 | --------------- | ---------------------------------------------------- | ------------------------------------------------------ |
 | **Data**        | Raw, unprocessed facts or measurements               | A CSV file of student grades and attendance            |
@@ -84,13 +83,6 @@ CRISP-DM stands for **Cross-Industry Standard Process for Data Mining** — a st
 | **Balance**                              | Equal distribution across classes                 | Prevents bias toward majority class           |
 | **Labeling**                             | Correct and precise labels                        | Wrong labels confuse the model                |
 | **Timeliness**                           | Data should be up-to-date                         | Outdated data → poor predictions              |
-
----
-
-
-
-Absolutely 👍 — here’s a clean, **markdown-style summary** of everything we’ve discussed since your last notes.
-This will serve as your **second study sheet** for the Machine Learning section.
 
 ---
 
